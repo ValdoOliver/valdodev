@@ -1,0 +1,58 @@
+Amarelo: #EC8C08
+Cinza: #201D22
+
+
+Formulario: 
+cinza: rgba(122, 122, 122, 0.2)
+cinza escuro: #7A7A7A
+
+div#top-bar-wrap {
+display: none!important;
+}
+
+
+#header.elementor-sticky--effects .logo img {
+content:url('coloque o link da sua logo aqui e não apague as aspas') !important;
+}
+
+#header.elementor-sticky--effects .roblox li a {
+color: #ec8c08!important;
+}
+
+
+http://localhost/wv/wp-content/uploads/2022/06/Logo-MR.png
+
+#EC8C08
+
+#EC8C08
+
+http://localhost/wv/wp-content/uploads/2022/06/logonet-1.png
+http://localhost/wv/wp-content/uploads/2022/06/logoBLATTPRETO-1.png
+
+http://localhost/wv/wp-content/uploads/2022/06/logoBLATTPRETO-2.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
